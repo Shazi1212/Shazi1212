@@ -1,93 +1,152 @@
 <div align="center">
 
-<!-- Animated header with wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shazi1212&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20SaaS%20Builder%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,8,30&height=220&section=header&text=Hafiz%20Muhammad%20Sharoz%20Khalid&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20Transformation%20Leader%20%7C%20Founder%20%40%20Brandilyst%20%26%20Sourcechain%20Solutions&descAlignY=58&descSize=16" />
 
-<!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Building+scalable+SaaS+platforms+%F0%9F%9A%80;Turning+ideas+into+real+products+%F0%9F%92%A1;TypeScript+%7C+Next.js+%7C+AI+Integrations+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F5C518&center=true&vCenter=true&multiline=true&width=750&height=80&lines=Helping+DACH%2FEU+SMEs+scale+with+AI+workflows+%F0%9F%87%A9%F0%9F%87%AA;AI+that+fails+is+not+a+tech+problem+%E2%80%94+it%27s+an+adoption+problem+%F0%9F%A7%A0;Automate.+Scale.+Lead.+%E2%80%94+brandilyst.de+%F0%9F%9A%80)](https://hmsk.life)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Shazi1212&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/Shazi1212?label=Followers&style=for-the-badge&color=58A6FF)](https://github.com/Shazi1212)
+![Profile Views](https://komarev.com/ghpvc/?username=Shazi1212&label=Profile%20Views&color=gold&style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hmskconnect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hmskconnect)
+[![Personal](https://img.shields.io/badge/🌐%20hmsk.life-1a1a2e?style=for-the-badge)](https://hmsk.life)
+[![Brandilyst](https://img.shields.io/badge/🏢%20brandilyst.de-F5C518?style=for-the-badge&logoColor=black)](https://brandilyst.de)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧠 About Me
 
 ```typescript
-const shazi = {
-  username: "Shazi1212",
-  role: "Full-Stack Developer & SaaS Builder",
-  company: "Source Chain Solutions",
-  website: "hmsk.life",
-  currentProject: "Einfach-Fahrschule — Multi-tenant SaaS for German driving schools",
-  techStack: {
-    frontend: ["Next.js", "React", "TypeScript", "Tailwind CSS"],
-    backend: ["Node.js", "PostgreSQL", "Qdrant", "REST APIs"],
-    tools: ["Git", "Docker", "Vercel", "AI/LLM integrations"],
-  },
-  passions: ["SaaS architecture", "AI-powered products", "clean UI/UX"],
-  funFact: "I build AI chatbots that speak fluent German 🇩🇪",
+const hmsk = {
+  name:        "Hafiz Muhammad Sharoz Khalid",
+  alias:       "HMSK",
+  location:    "Marburg an der Lahn, Hesse, Germany 🇩🇪",
+  languages:   ["English (Professional)", "German (Professional)", "Urdu (Native)"],
+
+  roles: [
+    "Co-Founder & CEO @ Brandilyst (Germany) — brandilyst.de",
+    "Founder @ Sourcechain Solutions (Portugal)",
+    "AI Transformation Consultant",
+  ],
+
+  mission: `
+    AI doesn't fail because of technology.
+    It fails because of adoption.
+    I build AI systems that are practical, measurable,
+    and built for real-world use — without the hype.
+  `,
+
+  expertise: [
+    "AI Workflow Automation",
+    "Process Automation (Make.com, n8n)",
+    "Knowledge Management & AI Assistants",
+    "ITIL / ServiceNow / IT Service Delivery",
+    "SaaS Platform Architecture",
+    "DACH/EU SME Transformation",
+  ],
+
+  currentBuild: "Einfach-Fahrschule — AI-powered SaaS for German driving schools",
+  personalHub:  "hmsk.life",
+  company:      "brandilyst.de",
 };
 ```
 
+> *"AI does not fail because of technology — it fails because of adoption. Real transformation starts with one workflow, one KPI, one team that actually uses it."*
+
 ---
 
-## 🚀 Tech Stack & Tools
+## 🏢 My Ventures
 
 <div align="center">
 
-### 💻 Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+| | Venture | Role | Focus |
+|:---:|:---|:---|:---|
+| 🟡 | **[Brandilyst](https://brandilyst.de)** — Germany | Co-Founder & CEO | AI-first digital transformation for SMEs & mid-market |
+| 🔵 | **Sourcechain Solutions** — Portugal | Founder | IT consulting, automation & business transformation |
 
-### 🧩 Frameworks & Libraries
+</div>
+
+**Brandilyst** helps businesses across the DACH/EU region automate, scale, and lead with AI — covering process automation, AI assistants, support deflection, strategy consulting, and team training.
+
+---
+
+## 🚀 Tech & Tools Stack
+
+<div align="center">
+
+### ⚙️ AI & Automation
+![Make.com](https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+### 💻 Development
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### 🗄️ Databases & Cloud
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### 🏗️ IT & Service Management
+![ServiceNow](https://img.shields.io/badge/ServiceNow-12AB6B?style=for-the-badge&logo=servicenow&logoColor=white)
+![Microsoft Teams](https://img.shields.io/badge/MS%20Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white)
+![Nexthink](https://img.shields.io/badge/Nexthink-0066CC?style=for-the-badge&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
 ---
 
-## 🏗️ Featured Projects
+## 🏗️ Key Projects
 
 <div align="center">
 
 | 🚀 Project | 📝 Description | 🛠️ Stack |
 |:---:|:---|:---:|
-| **Einfach-Fahrschule** | Multi-tenant SaaS platform for German driving schools with AI chatbot | TypeScript · Next.js · PostgreSQL · AI |
+| **[Einfach-Fahrschule](https://github.com/Shazi1212/Einfach-Fahrschule-Website)** | Multi-tenant AI SaaS for German driving schools — chatbot, licensing, multi-org | TypeScript · Next.js · PostgreSQL · Qdrant · AI |
 | **FinTrack** | Personal finance tracker with smart categorization | TypeScript · Next.js |
-| **BrandiLyst** | Full-stack e-commerce & branding platform | TypeScript · React |
-| **HMSK-Hub** | Centralized productivity hub for tools & workflows | Multi-tech |
-| **E-Commerce Platform** | Production-ready online store with MIT license | TypeScript |
+| **BrandiLyst Platform** | Full-stack SaaS & branding platform for Brandilyst | TypeScript · React |
+| **HMSK-Hub** | Centralized founder hub — tools, workflows, and resources in one place | Multi-tech |
+| **IT Asset Management Overhaul** | Led global ITAM transformation @ Marelli — 35% less hardware downtime | ITIL · ServiceNow |
+| **OS Migration (Huntsman Corp.)** | Migrated 2,300+ devices from Win7→Win10, 40% fewer security vulnerabilities | Windows · SCCM |
 
 </div>
+
+---
+
+## 💼 Experience Timeline
+
+```
+2025 – Present  │  Co-Founder & CEO · Brandilyst · Germany (Remote)
+                │  AI-first transformation partner for DACH/EU SMEs
+                │
+2023 – Present  │  Founder · Sourcechain Solutions · Lisbon, Portugal (Remote)
+                │  IT consulting, automation, 95% customer satisfaction rate
+                │
+2024 – 2025     │  IT Consultant · GSK · Germany
+                │  Nymi device upgrade, Windows 11 migration, inventory tracking
+                │
+2020 – 2024     │  IT Support Specialist · Marelli · Reutlingen, Germany
+                │  99% SLA compliance, ITIL processes, led 50+ staff training
+                │
+2020            │  IT Support Consultant · Huntsman Corporation · Basel, Switzerland
+                │  Migrated 1,000+ devices, 40% security risk reduction
+```
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shazi1212&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shazi1212&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shazi1212&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shazi1212&theme=radical&hide_border=true" />
 </div>
 
 <div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shazi1212&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shazi1212&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </div>
 
 ---
@@ -95,8 +154,17 @@ const shazi = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shazi1212&theme=tokyo-night&hide_border=true&area=true&custom_title=Shazi1212's%20Contribution%20Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shazi1212&theme=redical&hide_border=true&area=true&custom_title=Sharoz's%20Contribution%20Graph" />
 </div>
+
+---
+
+## 🎓 Education & Certifications
+
+- 🎓 **BSc Electrical & Electronics Engineering** — Rhine-Waal University, Germany
+- 🎓 **BSc Electrical & Electronics Engineering** — University of Lahore, Pakistan
+- 📜 **Certified Nexthink Associate** — Nexthink (Apr 2026)
+- 📜 **Powerful Custom GPTs** — LinkedIn Learning (Sep 2024)
 
 ---
 
@@ -104,8 +172,10 @@ const shazi = {
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/🌐%20hmsk.life-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.hmsk.life)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shazi1212)
+[![Personal Hub](https://img.shields.io/badge/🌐%20hmsk.life-1a1a2e?style=for-the-badge&logo=google-chrome&logoColor=gold)](https://hmsk.life)
+[![Brandilyst](https://img.shields.io/badge/🏢%20brandilyst.de-F5C518?style=for-the-badge&logoColor=black)](https://brandilyst.de)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hafiz%20Sharoz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hmskconnect)
+[![GitHub](https://img.shields.io/badge/GitHub-Shazi1212-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shazi1212)
 
 </div>
 
@@ -113,10 +183,12 @@ const shazi = {
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,8,30&height=120&section=footer" />
 
-*"Code is like humor. When you have to explain it, it's bad."* — Cory House
+*"AI transformation is not about flashy ideas. It's about making existing operations smarter — without breaking what already works."*
 
-![Made with love](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red?style=for-the-badge)
+**— Hafiz Muhammad Sharoz Khalid**
+
+![Made with ❤️](https://img.shields.io/badge/Built%20with-%E2%9D%A4%EF%B8%8F%20from%20Germany-F5C518?style=for-the-badge)
 
 </div>
