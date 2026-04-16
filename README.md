@@ -6,10 +6,10 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Shazi1212&label=Profile%20Views&color=gold&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Shazi1212&label=Profile%20Views&color=F5C518&style=for-the-badge)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hmskconnect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hmskconnect)
-[![Personal](https://img.shields.io/badge/🌐%20hmsk.life-1a1a2e?style=for-the-badge)](https://hmsk.life)
-[![Brandilyst](https://img.shields.io/badge/🏢%20brandilyst.de-F5C518?style=for-the-badge&logoColor=black)](https://brandilyst.de)
+[![Personal](https://img.shields.io/badge/%F0%9F%8C%90%20hmsk.life-1a1a2e?style=for-the-badge)](https://hmsk.life)
+[![Brandilyst](https://img.shields.io/badge/%F0%9F%8F%A2%20brandilyst.de-F5C518?style=for-the-badge&logoColor=black)](https://brandilyst.de)
 
 </div>
 
@@ -92,7 +92,7 @@ const hmsk = {
 ### 🏗️ IT & Service Management
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-12AB6B?style=for-the-badge&logo=servicenow&logoColor=white)
 ![Microsoft Teams](https://img.shields.io/badge/MS%20Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white)
-![Nexthink](https://img.shields.io/badge/Nexthink-0066CC?style=for-the-badge&logoColor=white)
+![Nexthink](https://img.shields.io/badge/Nexthink%20Certified-0066CC?style=for-the-badge&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
@@ -106,12 +106,12 @@ const hmsk = {
 
 | 🚀 Project | 📝 Description | 🛠️ Stack |
 |:---:|:---|:---:|
-| **[Einfach-Fahrschule](https://github.com/Shazi1212/Einfach-Fahrschule-Website)** | Multi-tenant AI SaaS for German driving schools — chatbot, licensing, multi-org | TypeScript · Next.js · PostgreSQL · Qdrant · AI |
+| **[Einfach-Fahrschule](https://github.com/Shazi1212/Einfach-Fahrschule-Website)** | Multi-tenant AI SaaS for German driving schools — chatbot, licensing, multi-org | TypeScript · Next.js · PostgreSQL · AI |
 | **FinTrack** | Personal finance tracker with smart categorization | TypeScript · Next.js |
 | **BrandiLyst Platform** | Full-stack SaaS & branding platform for Brandilyst | TypeScript · React |
-| **HMSK-Hub** | Centralized founder hub — tools, workflows, and resources in one place | Multi-tech |
-| **IT Asset Management Overhaul** | Led global ITAM transformation @ Marelli — 35% less hardware downtime | ITIL · ServiceNow |
-| **OS Migration (Huntsman Corp.)** | Migrated 2,300+ devices from Win7→Win10, 40% fewer security vulnerabilities | Windows · SCCM |
+| **HMSK-Hub** | Centralized founder hub — tools, workflows, resources in one place | Multi-tech |
+| **IT Asset Management Overhaul** | Global ITAM transformation @ Marelli — 35% less hardware downtime | ITIL · ServiceNow |
+| **OS Migration (Huntsman Corp.)** | Migrated 2,300+ devices Win7→Win10, 40% fewer security vulnerabilities | Windows · SCCM |
 
 </div>
 
@@ -121,19 +121,19 @@ const hmsk = {
 
 ```
 2025 – Present  │  Co-Founder & CEO · Brandilyst · Germany (Remote)
-                │  AI-first transformation partner for DACH/EU SMEs
+                │  AI-first transformation partner for DACH/EU SMEs & mid-market
                 │
 2023 – Present  │  Founder · Sourcechain Solutions · Lisbon, Portugal (Remote)
-                │  IT consulting, automation, 95% customer satisfaction rate
+                │  IT consulting & automation — 95% customer satisfaction rate
                 │
 2024 – 2025     │  IT Consultant · GSK · Germany
-                │  Nymi device upgrade, Windows 11 migration, inventory tracking
+                │  Nymi device upgrades, Windows 11 migration, real-time inventory tracking
                 │
 2020 – 2024     │  IT Support Specialist · Marelli · Reutlingen, Germany
-                │  99% SLA compliance, ITIL processes, led 50+ staff training
+                │  99% SLA compliance · ITIL processes · Trained 50+ staff
                 │
-2020            │  IT Support Consultant · Huntsman Corporation · Basel, Switzerland
-                │  Migrated 1,000+ devices, 40% security risk reduction
+Jul–Sep 2020    │  IT Support Consultant · Huntsman Corporation · Basel, Switzerland
+                │  1,000+ device migration · 40% security risk reduction
 ```
 
 ---
@@ -172,9 +172,9 @@ const hmsk = {
 
 <div align="center">
 
-[![Personal Hub](https://img.shields.io/badge/🌐%20hmsk.life-1a1a2e?style=for-the-badge&logo=google-chrome&logoColor=gold)](https://hmsk.life)
-[![Brandilyst](https://img.shields.io/badge/🏢%20brandilyst.de-F5C518?style=for-the-badge&logoColor=black)](https://brandilyst.de)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hafiz%20Sharoz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hmskconnect)
+[![Personal Hub](https://img.shields.io/badge/%F0%9F%8C%90%20hmsk.life-1a1a2e?style=for-the-badge&logoColor=F5C518)](https://hmsk.life)
+[![Brandilyst](https://img.shields.io/badge/%F0%9F%8F%A2%20brandilyst.de-F5C518?style=for-the-badge&logoColor=000000)](https://brandilyst.de)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hafiz%20Sharoz%20Khalid-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hmskconnect)
 [![GitHub](https://img.shields.io/badge/GitHub-Shazi1212-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shazi1212)
 
 </div>
@@ -189,6 +189,6 @@ const hmsk = {
 
 **— Hafiz Muhammad Sharoz Khalid**
 
-![Made with ❤️](https://img.shields.io/badge/Built%20with-%E2%9D%A4%EF%B8%8F%20from%20Germany-F5C518?style=for-the-badge)
+![Built from Germany](https://img.shields.io/badge/Built%20with%20%E2%9D%A4%EF%B8%8F%20from-Germany%20%F0%9F%87%A9%F0%9F%87%AA-F5C518?style=for-the-badge)
 
 </div>
