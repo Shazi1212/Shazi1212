@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,8,30&height=220&section=header&text=Hafiz%20Muhammad%20Sharoz%20Khalid&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20Transformation%20Leader%20%7C%20Founder%20%40%20Brandilyst%20%26%20Sourcechain%20Solutions&descAlignY=58&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=2,8,30&amp;height=220&amp;section=header&amp;text=Hafiz%20Muhammad%20Sharoz%20Khalid&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=38&amp;desc=AI%20Transformation%20Leader%20%7C%20Founder%20%40%20Brandilyst%20%26%20Sourcechain%20Solutions&amp;descAlignY=58&amp;descSize=16" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F5C518&center=true&vCenter=true&multiline=true&width=750&height=80&lines=Helping+DACH%2FEU+SMEs+scale+with+AI+workflows+%F0%9F%87%A9%F0%9F%87%AA;AI+that+fails+is+not+a+tech+problem+%E2%80%94+it%27s+an+adoption+problem+%F0%9F%A7%A0;Automate.+Scale.+Lead.+%E2%80%94+brandilyst.de+%F0%9F%9A%80)](https://hmsk.life)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F5C518&center=true&vCenter=true&multiline=true&width=750&height=80&lines=Helping+DACH%2FEU+SMEs+scale+with+AI+workflows+%F0%9F%87%A9%F0%9F%87%AA;AI+that+fails+is+not+a+tech+problem+%E2%80%94+it%27s+an+adoption+problem;Automate.+Scale.+Lead.+%E2%80%94+brandilyst.de+%F0%9F%9A%80)](https://hmsk.life)
 
 <br/>
 
@@ -19,16 +19,16 @@
 
 ```typescript
 const hmsk = {
-  name:        "Hafiz Muhammad Sharoz Khalid",
-  alias:       "HMSK",
-  location:    "Germany",
-  languages:   ["English (Professional)", "German (Professional)", "Urdu (Native)"],
+  name:         "Hafiz Muhammad Sharoz Khalid",
+  alias:        "HMSK",
+  location:     "Germany",
+  languages:    ["English (Professional)", "German (Professional)", "Urdu (Native)"],
   roles: [
     "Co-Founder and CEO @ Brandilyst (Germany) - brandilyst.de",
     "Founder @ Sourcechain Solutions (Portugal)",
     "AI Transformation Consultant",
   ],
-  mission: "AI does not fail because of technology. It fails because of adoption.",
+  mission:      "AI does not fail because of technology. It fails because of adoption.",
   currentBuild: "Einfach-Fahrschule - AI-powered SaaS for German driving schools",
   personalHub:  "hmsk.life",
   company:      "brandilyst.de",
@@ -44,21 +44,23 @@ const hmsk = {
 
 | | Venture | Role | Focus |
 |:---:|:---|:---|:---|
-| Brandilyst | [brandilyst.de](https://brandilyst.de) - Germany | Co-Founder and CEO | AI-first digital transformation for SMEs |
-| Sourcechain | [sourcechainsolutions.com](https://www.sourcechainsolutions.com) - Portugal | Founder | IT consulting and automation |
-| Einfach-Fahrschule | [einfach-fahrschule.de](https://einfach-fahrschule.de) - Germany | Builder | AI-powered SaaS for German driving schools |
+| 🏢 | [brandilyst.de](https://brandilyst.de) — Germany | Co-Founder and CEO | AI-first digital transformation for SMEs |
+| 🌍 | [sourcechainsolutions.com](https://www.sourcechainsolutions.com) — Portugal | Founder | IT consulting and automation |
+| 🚗 | [einfach-fahrschule.de](https://einfach-fahrschule.de) — Germany | Builder | AI-powered SaaS for German driving schools |
 
 ---
 
 ## Tech Stack
 
 ### AI and Automation
+
 ![Make.com](https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude AI](https://img.shields.io/badge/Claude%20AI-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ### Development
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -67,6 +69,7 @@ const hmsk = {
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### IT and Service Management
+
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-12AB6B?style=for-the-badge&logo=servicenow&logoColor=white)
 ![Nexthink](https://img.shields.io/badge/Nexthink%20Certified-0066CC?style=for-the-badge&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -77,12 +80,12 @@ const hmsk = {
 ## Key Projects
 
 | Project | Description | Stack |
-|:---:|:---|:---:|
+|:---|:---|:---|
 | [Einfach-Fahrschule](https://einfach-fahrschule.de) | Multi-tenant AI SaaS for German driving schools | TypeScript, Next.js, PostgreSQL, AI |
 | FinTrack | Personal finance tracker with smart categorization | TypeScript, Next.js |
 | [BrandiLyst](https://brandilyst.de) | Full-stack SaaS and branding platform | TypeScript, React |
 | HMSK-Hub | Centralized founder hub for tools and workflows | Multi-tech |
-| IT Asset Management Overhaul | Global ITAM transformation at Marelli - 35% less downtime | ITIL, ServiceNow |
+| IT Asset Management Overhaul | Global ITAM transformation at Marelli — 35% less downtime | ITIL, ServiceNow |
 | OS Migration Huntsman Corp | Migrated 2300+ devices Win7 to Win10, 40% fewer vulnerabilities | Windows, SCCM |
 
 ---
@@ -90,18 +93,18 @@ const hmsk = {
 ## Experience Timeline
 
 ```
-2025 - Present  |  Co-Founder and CEO - Brandilyst - Germany Remote
-2023 - Present  |  Founder - Sourcechain Solutions - Lisbon Portugal Remote
-2024 - 2025     |  IT Consultant - GSK - Germany
-2020 - 2024     |  IT Support Specialist - Marelli - Reutlingen Germany
-Jul-Sep 2020    |  IT Support Consultant - Huntsman Corporation - Basel Switzerland
+2025 - Present  |  Co-Founder and CEO — Brandilyst — Germany (Remote)
+2023 - Present  |  Founder — Sourcechain Solutions — Lisbon, Portugal (Remote)
+2024 - 2025     |  IT Consultant — GSK — Germany
+2020 - 2024     |  IT Support Specialist — Marelli — Reutlingen, Germany
+Jul-Sep 2020    |  IT Support Consultant — Huntsman Corporation — Basel, Switzerland
 ```
 
 ---
 
 ## Coding Activity
 
-I build with GitHub commits plus Claude AI vibe coding. The contribution graph shows my GitHub commits. The Claude table shows the AI-assisted sessions behind those commits.
+I build with GitHub commits and Claude AI vibe coding. The contribution graph shows my GitHub commits. The Claude table shows the AI-assisted sessions behind those commits.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shazi1212&theme=radical&hide_border=true&background=0d1117&ring=F5C518&fire=F5C518&currStreakLabel=F5C518)](https://github.com/Shazi1212)
 
@@ -114,31 +117,31 @@ I build with GitHub commits plus Claude AI vibe coding. The contribution graph s
 | Metric | Value |
 |:---|:---:|
 | Sessions | 23 |
-| Messages | 14800 |
-| Total Tokens | 3.2M - 4x War and Peace |
+| Messages | 14,800 |
+| Total Tokens | 3.2M — ~4x War and Peace |
 | Active Days | 13 |
 | Peak Hour | 15:00 |
 | Longest Streak | 6 days |
 | Favourite Model | Claude Opus 4.6 |
 
-Every commit in the graph above was planned reviewed or pair-programmed with Claude.
+> Every commit in the graph above was planned, reviewed, or pair-programmed with Claude.
 
 ---
 
 ## Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shazi1212&theme=tokyo-night&hide_border=true&area=true&custom_title=Sharoz+GitHub+Contribution+Graph&color=F5C518&line=F5C518&point=ffffff" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shazi1212&theme=tokyo-night&hide_border=true&area=true&custom_title=Sharoz+GitHub+Contribution+Graph&color=F5C518&line=F5C518&point=ffffff" />
 </div>
 
 ---
 
 ## Education and Certifications
 
-- BSc Electrical and Electronics Engineering - Rhine-Waal University Germany
-- BSc Electrical and Electronics Engineering - University of Lahore Pakistan
-- Certified Nexthink Associate - Nexthink Apr 2026
-- Powerful Custom GPTs - LinkedIn Learning Sep 2024
+- 🎓 BSc Electrical and Electronics Engineering — Rhine-Waal University, Germany
+- 🎓 BSc Electrical and Electronics Engineering — University of Lahore, Pakistan
+- ✅ Certified Nexthink Associate — Nexthink (Apr 2026)
+- ✅ Powerful Custom GPTs — LinkedIn Learning (Sep 2024)
 
 ---
 
@@ -152,11 +155,13 @@ Every commit in the graph above was planned reviewed or pair-programmed with Cla
 ---
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,8,30&height=120&section=footer" />
 
-AI transformation is not about flashy ideas. It is about making existing operations smarter without breaking what already works.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=2,8,30&amp;height=120&amp;section=footer" />
 
-Hafiz Muhammad Sharoz Khalid
+*AI transformation is not about flashy ideas. It is about making existing operations smarter without breaking what already works.*
+
+**— Hafiz Muhammad Sharoz Khalid**
 
 ![Built from Germany](https://img.shields.io/badge/Built%20with%20love%20from-Germany-F5C518?style=for-the-badge)
+
 </div>
