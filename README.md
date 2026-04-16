@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,8,30&height=220&section=header&text=Hafiz%20Muhammad%20Sharoz%20Khalid&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20Transformation%20Leader%20%7C%20Founder%20%40%20Brandilyst%20%26%20Sourcechain%20Solutions&descAlignY=58&descSize=16)
+![wave](https://capsule-render.vercel.app/api?type=waving&color=0d1117,1a1a2e,F5C518&height=180&section=header)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F5C518&center=true&vCenter=true&multiline=true&width=750&height=80&lines=Helping+DACH%2FEU+SMEs+scale+with+AI+workflows+%F0%9F%87%A9%F0%9F%87%AA;AI+that+fails+is+not+a+tech+problem+%E2%80%94+it%27s+an+adoption+problem;Automate.+Scale.+Lead.+%E2%80%94+brandilyst.de+%F0%9F%9A%80)](https://hmsk.life)
 
