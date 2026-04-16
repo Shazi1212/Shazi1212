@@ -22,7 +22,7 @@ const shazi = {
   username: "Shazi1212",
   role: "Full-Stack Developer & SaaS Builder",
   company: "Source Chain Solutions",
-  website: "sourcechainsolutions.com",
+  website: "hmsk.life",
   currentProject: "Einfach-Fahrschule — Multi-tenant SaaS for German driving schools",
   techStack: {
     frontend: ["Next.js", "React", "TypeScript", "Tailwind CSS"],
@@ -104,7 +104,7 @@ const shazi = {
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/🌐%20sourcechainsolutions.com-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.sourcechainsolutions.com)
+[![Website](https://img.shields.io/badge/🌐%20hmsk.life-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.hmsk.life)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shazi1212)
 
 </div>
